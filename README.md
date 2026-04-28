@@ -1,9 +1,5 @@
 # ⚡ Serverless M365 User Offboarding Automation
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ## 🚀 Overview
 
 This repository contains a 100% serverless, zero-trust automation pipeline for Microsoft 365 user offboarding. Designed to replace manual HR offboarding checklists, this solution leverages Azure Logic Apps and Azure Automation to instantly secure the accounts of departing employees, preserve critical business data, and immediately reclaim licensing costs. 
